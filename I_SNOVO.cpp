@@ -7,5 +7,6 @@ int main()
 {
    //01
 	//02 уд
+	//003//loc
 	//AOPSDIFJ
 }
